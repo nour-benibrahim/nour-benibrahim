@@ -1,6 +1,6 @@
 # Hi, I'm Nour 👋
 
-I'm final year engineering student at the **Faculty of Sciences of Tunis (FST)**, building things at the intersection of **IoT**, **Cloud Security**, and **Networking**.
+I'm a final year engineering student at the **Faculty of Sciences of Tunis (FST)**, building things at the intersection of **IoT**, **Cloud Security**, and **Networking**.
 
 I enjoy working across the full stack — from writing bare-metal drivers in C to deploying ML models and building dashboards. I'm currently looking for an internship where I can contribute and grow.
 
